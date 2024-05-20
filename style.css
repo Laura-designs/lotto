@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(32, 32, 155);
+    height: 1000px;
+    color: white;
+}
+.head{
+    margin-left: 30px;
+    padding: 10px;
+   
+}
+h1{
+    font-size: 70px;
+    font-weight: 50px;
+    margin-left: 40px;
+}
+.social-icons a {
+    padding: 20px;
+    font-size: 38px;
+    margin: 15px;
+    margin-bottom: 4px;
+}
+.footer{
+    margin: auto;
+    background-color: rgb(100, 100, 187);
+    color: white;
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+}
+#hero{
+    justify-content: space-around;
+}
+#hero img{
+    height:400px;
+   /* margin-left: 50px; */
+
+}
+.part{
+    /* margin: auto; */
+    justify-content: center;
+    align-items: center;
+    /* line-height: 32px; */
+    padding-top: 10px;
+}
+#landingpage  {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+    
